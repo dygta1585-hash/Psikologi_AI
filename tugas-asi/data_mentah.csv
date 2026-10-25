@@ -1,0 +1,41 @@
+id_sampel,metode,akurasi,waktu_detik,berhasil
+1,Model Berbasis Pola,0.742,1.125,True
+1,Model Berbasis Pembelajaran Mendalam,0.928,3.375,True
+2,Model Berbasis Pola,0.681,0.690,False
+2,Model Berbasis Pembelajaran Mendalam,0.895,2.070,True
+3,Model Berbasis Pola,0.775,1.815,True
+3,Model Berbasis Pembelajaran Mendalam,0.941,5.445,True
+4,Model Berbasis Pola,0.663,0.555,False
+4,Model Berbasis Pembelajaran Mendalam,0.862,1.665,True
+5,Model Berbasis Pola,0.810,2.145,True
+5,Model Berbasis Pembelajaran Mendalam,0.957,6.435,True
+6,Model Berbasis Pola,0.724,1.230,True
+6,Model Berbasis Pembelajaran Mendalam,0.913,3.690,True
+7,Model Berbasis Pola,0.698,0.885,False
+7,Model Berbasis Pembelajaran Mendalam,0.886,2.655,True
+8,Model Berbasis Pola,0.753,1.410,True
+8,Model Berbasis Pembelajaran Mendalam,0.934,4.230,True
+9,Model Berbasis Pola,0.647,0.495,False
+9,Model Berbasis Pembelajaran Mendalam,0.851,1.485,False
+10,Model Berbasis Pola,0.792,1.965,True
+10,Model Berbasis Pembelajaran Mendalam,0.948,5.895,True
+11,Model Berbasis Pola,0.716,1.095,True
+11,Model Berbasis Pembelajaran Mendalam,0.907,3.285,True
+12,Model Berbasis Pola,0.679,0.750,False
+12,Model Berbasis Pembelajaran Mendalam,0.874,2.250,True
+13,Model Berbasis Pola,0.761,1.575,True
+13,Model Berbasis Pembelajaran Mendalam,0.939,4.725,True
+14,Model Berbasis Pola,0.654,0.615,False
+14,Model Berbasis Pembelajaran Mendalam,0.868,1.845,True
+15,Model Berbasis Pola,0.805,2.085,True
+15,Model Berbasis Pembelajaran Mendalam,0.952,6.255,True
+16,Model Berbasis Pola,0.733,1.185,True
+16,Model Berbasis Pembelajaran Mendalam,0.921,3.555,True
+17,Model Berbasis Pola,0.691,0.840,False
+17,Model Berbasis Pembelajaran Mendalam,0.889,2.520,True
+18,Model Berbasis Pola,0.748,1.365,True
+18,Model Berbasis Pembelajaran Mendalam,0.936,4.095,True
+19,Model Berbasis Pola,0.668,0.585,False
+19,Model Berbasis Pembelajaran Mendalam,0.859,1.755,False
+20,Model Berbasis Pola,0.786,1.890,True
+20,Model Berbasis Pembelajaran Mendalam,0.945,5.670,True
